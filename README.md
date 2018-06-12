@@ -4,6 +4,15 @@ Welcome to your new gem! In this directory, you'll find the files you need to be
 
 TODO: Delete this and the text above, and describe your gem
 
+The Stock CLI application provides the user a menu with 4 options :
+(a) View a list of stocks
+  This provides the user with a list of companies and their stock price with the option
+  of learning more about a particular stock by entering the correct company symbol.
+
+(b) View a list of companies in descending order of market cap
+(c) View a list of stocks in descending order of volatility
+(d) Quit the program
+
 sample text
 ## Installation
 
