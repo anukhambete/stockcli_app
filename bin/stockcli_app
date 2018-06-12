@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+require './lib/stockcli_app'
+
+StockcliApp::CLI.new.call
