@@ -23,7 +23,7 @@ class StockcliApp::Stock
 
   def self.create_from_scraper_array(outer_array)
     outer_array.each do |inner_array|
-      stock = StockInfo::Stock.new(inner_array)
+      stock = StockcliApp::Stock.new(inner_array)
     end
   end
 
